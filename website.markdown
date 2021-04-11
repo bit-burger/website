@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Die Website selber"
 date:   2021-04-10 19:07:08 +0200
 permalink: /website/
