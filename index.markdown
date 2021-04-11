@@ -1,8 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 
-Ich bin Tony Borchert, ein 15 Jähriger der sich für Programmieren und App entwickeln interessiert. Ich habe diese Website kreiert um über ein paar meiner Projekte zu schreiben. Die Website hier habe ich selber gemacht, für mehr info über die Website selber, [clicken sie hier](https://tonyborchert.xyz/website/).
+Ich bin Tony Borchert, ein 15 Jähriger der sich für Programmieren und App entwickeln interessiert. Ich habe diese Website erstellt um über ein paar meiner Projekte zu berichten. Die Website hier habe ich ausserdem selber gemacht, für mehr Informationen über diese Website, [klicken sie hier](https://tonyborchert.xyz/website/). 
+
+Im Moment programmiere ich meine Apps in Dart und nutzte dafür Flutter, ich kann damit mit nur einer Codebase eine App für iOS, Android, Web, und sogar Desktop bauen [(jedoch nur in Beta)](https://flutter.dev/desktop#beta-snapshot-in-stable-channel). Vorher habe ich apple's UIKit mit ihrer eigenen Programmiersprache Swift genutzt, ich habe gleichzeitig auch ein bisschen SpriteKit genutzt, wie in meinem Projekt [DestroyTheWood](https://tonyborchert.xyz/destroythewood/). Als Backend habe ich dort FireBase verwendet. Als ich dann irgendwann eine weitere App mit einem Backend gebaut habe, nähmlich [points](https://tonyborchert.xyz/points/), habe ich mich gegen FireBase entschieden und hab stattdessen mein eigenen "Server" gebaut, nähmlich mit meinem raspberry pi, [node](https://nodejs.org/de/), und der [ws library](https://www.npmjs.com/package/ws). Die Datenbank war in diesem fall eine einfache .json Datei, doch das hat (zumindest als Prototyp) gereicht. Das war für mich besonders leicht, da ich viel Erfahrung mit [Discord.js](https://discord.js.org/) gesammelt habe, welche auch auf Node.js läuft.
+
+Ich benutze einen iMac Baujahr 2019 mit 32 gigabyte Ram und macOS Big Sur. Als primäre IDE für Dart/Flutter (was ich im Moment am meisten mache) ist Android Studio, also quasi IntelliJ, mit dem Dart, Flutter und IdeaVim plugin. Für Javascript/Node.js benutze ich Visual Studio Code, mit dem Vim Plugin und für iOS native benutze ich natürlich Xcode.
