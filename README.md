@@ -1,5 +1,5 @@
 # website
-Meine Eigene Website, geschrieben in Markdown mit Jekyll, gehosted auf GitHub
+Meine eigene Website, geschrieben in Markdown mit Jekyll, gehosted auf GitHub
 
 ### Vorgestellte Projekte:
 
