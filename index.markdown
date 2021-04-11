@@ -4,3 +4,5 @@
 
 layout: page
 ---
+
+Ich bin Tony Borchert, ein 15 Jähriger der sich für Programmieren und App entwickeln interessiert. Ich habe diese Website kreiert um über ein paar meiner Projekte zu reden. Die Website hier habe ich selber gemacht, für mehr infos darüber, (clicken sie hier)[https://tonyborchert.xyz]
