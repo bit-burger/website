@@ -26,7 +26,7 @@ Hier haben wir eine Mischung von einem (2d) SpriteKit View und einem normalen Vi
 
 Man kann auch z.B.: das Haptic Feedback ausschalten, dies geht über die Einstellungen, die man nur aus dem Hauptmenü betreten kann. In den Einstellungen kann man auch die Touch distance finden, also wie weit die Holzklötzchen von den Fingern sind. Wenn man die Einstellung auf 0 stellt, liegt der Finger genau auf den Holzklötzchen.
 
-![](/assets/destroythewood/mit_einstellungen_spielen.gif)
+![](/assets/destroythewood/einstellungen.gif)
 
 
 ### Statistiken/Leaderboards
