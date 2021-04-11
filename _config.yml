@@ -28,11 +28,9 @@ url: "https://tonyborchert.xyz" # the base hostname & protocol for your site, e.
 github_username:  bit-burger
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: pages-themes/cayman
 
 
-minima:
-  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
