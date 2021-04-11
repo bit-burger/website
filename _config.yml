@@ -24,13 +24,12 @@ email: ibtonybor@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website von Tony Borchert, erstellt mit Jekyll und Markdown, gehosted auf GitHub.com, mit einer eigenen Domain
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tonyborchert.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bit-burger
 
 # Build settings
 remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
+
 
 minima:
   skin: dark
