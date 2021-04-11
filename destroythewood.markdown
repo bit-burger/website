@@ -4,4 +4,4 @@ title:  "DestroyTheWood"
 permalink: /destroythewood/
 ---
 
-![](/assets/destroythewood/gif/alles_loeschen.gif)
+![](/assets/destroythewood/gif/login.gif)
