@@ -42,6 +42,6 @@ In den Leaderboards, also unter Global, finden sich die besten Scores jeder Pers
 
 ### Account Löschen
 
-In den Einstellungen gibt es die möglichkeit, entweder alles zu löschen oder alles bisauf seinen Rekord zu löschen.
+In den Einstellungen gibt es die Möglichkeit, entweder alles zu löschen oder alles bisauf seinen Rekord zu löschen.
 
 ![](assets/destroythewood/gif/alles_loeschen.gif)
