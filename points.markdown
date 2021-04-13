@@ -27,6 +27,8 @@ Wie bereits erwähnt liegt der Fokus auf dem Design. Ich habe hierbei das flutte
 <img width="348" alt="einstellungen" src="/assets/points/gif/einstellungen.png">
 
 
+<img width="348" alt="einstellungen" src="/assets/points/gif/profil.png">
+
 ### Demos:
 
 **Realtime:**
