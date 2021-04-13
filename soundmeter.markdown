@@ -12,7 +12,7 @@ Die App nutzt (wie die [points](https://tonyborchert.xyz) App) das flutter_neumo
 
 | Homepage | Einstellungen |
 | :---: | :---: |
-| <img width="302" alt="sound" src="/assets/soundmeter/png/sound.png"> | <img width="302" alt="einstellungen" src="assets/soundmeter/png/einstellungen.png"> | 
+| <img width="302" alt="sound" src="/assets/soundmeter/png/sound.png"> | <img width="346" alt="einstellungen" src="/assets/soundmeter/png/einstellungen.png"> | 
 
 
 ### Demo 
