@@ -29,8 +29,7 @@ github_username:  bit-burger
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+
 
 minima:
   skin: dark
