@@ -4,7 +4,7 @@ title:  "DestroyTheWood"
 permalink: /destroythewood/
 ---
 
-Die App ist eine native iOS App und ist mit Swift, UIKit und 2d SpriteKit in Xcode gebaut, die Graphiken habe ich nicht selber erstellt (bis auf die Graphik beim App start wo "Tony Borchert" steht, diese ist eine bearbeite Version von den Knöpfen). Bisauf die Graphiken (und Töne) habe ich alles selber gemacht [(Quellcode)](https://github.com/bit-burger/destroythewood/). Das Spielkonzept stammt aus der App Woody Block Puzzle (bzw. daher kenne ich es).
+Die App ist eine native iOS App und ist in Swift, mit UIKit und 2d SpriteKit in Xcode programmiert, die Graphiken habe ich nicht selber erstellt (bis auf die Graphik beim App start wo "Tony Borchert" steht, diese ist eine bearbeite Version von den Knöpfen). Bisauf die Graphiken (und Töne) habe ich alles selber gemacht [(Quellcode)](https://github.com/bit-burger/destroythewood/). Das Spielkonzept stammt aus der App Woody Block Puzzle (bzw. daher kenne ich es).
 
 
 ### Login
