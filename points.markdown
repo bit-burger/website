@@ -16,18 +16,18 @@ Wie bereits erwähnt liegt der Fokus auf dem Design. Ich habe hierbei das flutte
 
 **Login:**
 
-<img width="342" alt="login" src="/assets/points/gif/login.png">
+<img width="342" alt="login" src="/assets/points/png/login.png">
 
 **Homepage:**
 
-<img width="392" alt="homepage" src="/assets/points/gif/homepage.png">
+<img width="392" alt="homepage" src="/assets/points/png/homepage.png">
 
 **Einstellungen:**
 
-<img width="348" alt="einstellungen" src="/assets/points/gif/einstellungen.png">
+<img width="348" alt="einstellungen" src="/assets/points/png/einstellungen.png">
 
 
-<img width="348" alt="einstellungen" src="/assets/points/gif/profil.png">
+<img width="348" alt="einstellungen" src="/assets/points/png/profil.png">
 
 ### Demos:
 
