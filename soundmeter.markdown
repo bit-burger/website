@@ -11,7 +11,7 @@ SoundMeter ist eine in Dart/Flutter geschriebene crossplatform Sound-mess-App, m
 Die App nutzt (wie die [points](https://tonyborchert.xyz) App) das flutter_neumorphic package für einen modernen neumorphic look.
 
 | Homepage | Einstellungen |
-| :--- | ---: |
+| :---: | :---: |
 | <img width="256" alt="sound" src="/assets/soundmeter/png/sound.png"> | <img width="256" alt="einstellungen" src="assets/soundmeter/png/einstellunge.png"> | 
 
 
