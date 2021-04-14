@@ -4,11 +4,11 @@ title: "SoundMeter"
 permalink: /soundmeter/
 ---
 
-SoundMeter ist eine in Dart/Flutter geschriebene crossplatform Sound-mess-App, mit ihr kann man Sound messen und seinen eigenen Ton abspielen, wenn es zu laut wird [(Quellcode)](https://github.com/bit-burger/soundmeter/). 
+SoundMeter ist eine in Dart/Flutter geschriebene crossplatform App, mit der man die Lautstärke messen und seinen eigenen Ton abspielen kann, wenn es zu laut wird [(Quellcode)](https://github.com/bit-burger/soundmeter/). 
 
 ### Design:
 
-Die App nutzt (wie die [points](https://tonyborchert.xyz) App) das flutter_neumorphic package für einen modernen neumorphic look.
+Die App nutzt (wie die [points App](https://tonyborchert.xyz/points/)) das flutter_neumorphic package für einen modernen neumorphic look.
 
 | Homepage | Einstellungen |
 | :---: | :---: |
@@ -19,5 +19,5 @@ Die App nutzt (wie die [points](https://tonyborchert.xyz) App) das flutter_neumo
 
 | Homepage | Einstellungen |
 | :---: | :---: |
-| In der Homepage wird der Sound live angezeigt, wenn es zu laut wird, spielt ein Ton ab. | In den Einstellungen kann man den einstellen der von der Homepage gedeckt werden soll und wann der Ton abgespielt werden soll. Man kann außerdem, den Ton selber aufnehmen. |
+| In der Homepage wird die Lautstärke live angezeigt. Wenn es zu laut wird, wird ein Ton abgespielt. | In den Einstellungen kann man das Lautstärkenspektrum einstellen, das auf der App abgebildet wird. Man kann außerdem den Ton selber aufnehmen. |
 | ![](/assets/soundmeter/gif/sound.gif) | ![](/assets/soundmeter/gif/einstellungen.gif) | 
