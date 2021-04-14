@@ -13,3 +13,5 @@ Im Moment programmiere ich meine Apps in Dart und nutzte dafür Flutter, ich kan
 <img width="175" alt="homepage" src="/assets/destroythewood/gif/spielen.gif">
 
 Ich benutze einen iMac Baujahr 2019 mit 32 gigabyte Ram und macOS Big Sur. Als primäre IDE für Dart/Flutter (was ich im Moment am meisten mache) ist Android Studio, also quasi IntelliJ, mit dem Dart, Flutter und IdeaVim plugin. Für Javascript/Node.js benutze ich Visual Studio Code, mit dem Vim Plugin und für iOS native benutze ich natürlich Xcode.
+
+(Die Bilder sind Links und können geklickt werden)
