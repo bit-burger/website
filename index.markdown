@@ -6,7 +6,9 @@ layout: page
 
 <a href="https://tonyborchert.xyz/points/"><img width="175" alt="homepage" style="display:inline-block;vertical-align:top;" src="/assets/points/png/homepage.png"></a> 
 
-Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, [klicke hier](https://tonyborchert.xyz/website/). 
+<div style="display:inline-block;">
+Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein       paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, [klicke hier](https://tonyborchert.xyz/website/). 
+</div>
 
 <a href="https://tonyborchert.xyz/soundmeter/"><img width="175" alt="homepage" style="padding-left: 100%;" src="/assets/soundmeter/png/sound.png"> </a>
 
