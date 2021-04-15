@@ -30,6 +30,11 @@ github_username:  bit-burger
 # Build settings
 theme: minima
 
+header_pages:
+  - points.markdown
+  - destroythewood.markdown
+  - soundmeter.markdown
+  - heightcalculator.markdown
 
 minima:
   skin: dark
