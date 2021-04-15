@@ -35,6 +35,7 @@ header_pages:
   - destroythewood.markdown
   - soundmeter.markdown
   - heightcalculator.markdown
+  - website.markdown
 
 minima:
   skin: dark
