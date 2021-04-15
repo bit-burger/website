@@ -5,7 +5,7 @@ layout: page
 ## Über mich
 
 <p><a href="https://tonyborchert.xyz/points/"><img width="175" src="/assets/points/png/homepage.png" alt="homepage" style="width:170px;height:170px;margin-left:15px;float:right;"></a>
-Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein       paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, [klicke hier](https://tonyborchert.xyz/website/).</p>
+Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein       paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, <a href="https://tonyborchert.xyz/website/">klicke hier</a>.</p>
 
 <a href="https://tonyborchert.xyz/soundmeter/"><img width="175" alt="homepage" style="padding-left: 100%;" src="/assets/soundmeter/png/sound.png"> </a>
 
