@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Über mich"
+permalink: /
 ---
 
 <p><a href="https://tonyborchert.xyz/points/"><img width="175" src="/assets/points/png/homepage.png" alt="homepage" style="width:200px;height:auto;margin-left:15px;float:right;"></a>
