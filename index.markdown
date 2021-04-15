@@ -7,7 +7,6 @@ permalink: /
 <p><a href="https://tonyborchert.xyz/points/"><img width="175" src="/assets/points/png/homepage.png" alt="homepage" style="width:200px;height:auto;margin-left:15px;float:left;"></a>
 Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, <a href="https://tonyborchert.xyz/website/">klicke hier</a>.</p> 
 
-<br>
 
 <a href="https://tonyborchert.xyz/soundmeter/"><img width="175" alt="homepage" style="width:200px;height:auto;margin-left:15px;float:right;"  src="/assets/soundmeter/png/sound.png"> </a>
 
@@ -15,7 +14,7 @@ Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Ent
 
 <a href="https://tonyborchert.xyz/destroythewood/"><img width="175" style="width:200px;height:auto;margin-left:15px;float:left;" alt="homepage" src="/assets/destroythewood/gif/spielen.gif"></a>
 
-Ich benutze einen iMac Baujahr 2019 mit 32 gigabyte Ram und macOS Big Sur. Als primäre IDE für Dart/Flutter (was ich im Moment am meisten mache) ist Android Studio, also quasi IntelliJ, mit dem Dart, Flutter und IdeaVim plugin. Für Javascript/Node.js benutze ich Visual Studio Code, mit dem Vim Plugin und für iOS native benutze ich natürlich Xcode.
+<p>Ich benutze einen iMac Baujahr 2019 mit 32 gigabyte Ram und macOS Big Sur. Als primäre IDE für Dart/Flutter (was ich im Moment am meisten mache) ist Android Studio, also quasi IntelliJ, mit dem Dart, Flutter und IdeaVim plugin. Für Javascript/Node.js benutze ich Visual Studio Code, mit dem Vim Plugin und für iOS native benutze ich natürlich Xcode.</p>
 
 
 <sub>(Die Bilder sind Links und können geklickt werden)</sub>
