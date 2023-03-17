@@ -4,8 +4,14 @@ title: "Über mich"
 permalink: /
 ---
 
+{% assign dateStart = "2005-07-04" | date: '%s' %}
+{% assign nowTimestamp = 'now' | date: '%s' %}
+
+{% assign diffSeconds = nowTimestamp | minus: dateStart %}
+{% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | divided_by: 365 %}
+
 <p><a href="https://tonyborchert.xyz/points/"><img width="150" src="/assets/points/png/homepage.png" alt="homepage" style="width:200px;height:auto;margin-left:15px;float:right;"></a>
-Ich bin Tony Borchert, ein 15 Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, <a href="https://tonyborchert.xyz/website/">klicke hier</a>.</p> 
+Ich bin Tony Borchert, ein {{ diffDays | round: 0 }} Jähriger, der sich für Programmieren und App Entwickeln interessiert. Ich habe diese Website erstellt, um ein paar meiner Projekte vorzustellen. Die Website hier habe ich außerdem selber gemacht. Für mehr Informationen über diese Website, <a href="https://tonyborchert.xyz/website/">klicke hier</a>.</p> 
 
 <a href="https://tonyborchert.xyz/soundmeter/"><img width="150" alt="homepage" style="width:200px;height:auto;margin-right:15px;float:left;"  src="/assets/soundmeter/png/sound.png"> </a>
 
